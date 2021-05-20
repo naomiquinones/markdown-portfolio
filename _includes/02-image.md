@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Now that I'm learning Python...
+
+![Image of Pythocat](https://octodex.github.com/images/pythocat.png)
