@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Let's practice GitHub-flavored markdown
+## Interesting Subtitles have two '#' signs
+### Third-level headings
